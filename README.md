@@ -1,7 +1,7 @@
 # FisioIA - Assistente: Seu parceiro inteligente na fisioterapia!
 
 <div align="center">
-  <img src="https://i.ibb.co/4VrJh5x/Fisio-IA-Assistente.jpg" width="200" alt="Robô FisioIA">
+  <img src="https://i.ibb.co/4VrJh5x/Fisio-IA-Assistente.jpg" width="300" alt="Robô FisioIA">
 </div>
 
 **Precisando de ajuda com os relatórios médicos? O FisioIA chegou para facilitar a sua vida!**
