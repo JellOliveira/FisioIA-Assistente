@@ -24,7 +24,9 @@ Desenvolvido com Python e a inteligência do Gemini AI, o FisioIA é a sua ferra
 
 Confira o vídeo e veja como é fácil interagir com o FisioIA!
 
-https://github.com/user-attachments/assets/e20a88cd-5716-46f7-9ca4-0d77693bb609
+https://github.com/user-attachments/assets/ebf73e61-8b04-479a-86ba-0c95f4ae1d80
+
+
 
 
 
