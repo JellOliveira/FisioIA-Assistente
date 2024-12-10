@@ -4,7 +4,7 @@
   <img align="direct" src="https://i.ibb.co/4VrJh5x/Fisio-IA-Assistente.jpg" width="200" style="margin-right: 20px; margin-bottom: -50px"/>
 </div>  
 
-Precisando de ajuda com os relatórios médicos? O FisioIA chegou para facilitar a sua vida!
+<center>Precisando de ajuda com os relatórios médicos? O FisioIA chegou para facilitar a sua vida!</center>
 
  ✅ Análise de relatórios e resumo: Extrai e resume o que importa em segundos!
  ✅ Explica termos médicos: Dúvidas sobre termos técnicos? Ele te ajuda!
