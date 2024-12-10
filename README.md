@@ -1,6 +1,6 @@
-<div align="center">
 # FisioIA - Assistente: Seu parceiro inteligente na fisioterapia!
 
+<div align="center">
   <img align="direct" src="https://i.ibb.co/4VrJh5x/Fisio-IA-Assistente.jpg" width="200" style="margin-right: 20px; margin-bottom: -50px"/>
 </div>  
 
