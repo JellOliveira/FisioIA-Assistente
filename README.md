@@ -25,7 +25,8 @@ Desenvolvido com Python e a inteligência do Gemini AI, o FisioIA é a sua ferra
 Confira o vídeo e veja como é fácil interagir com o FisioIA!
 
 <video controls>
-  <source src="https://drive.google.com/uc?id=1uqfcLrKHuBf5kJ5U3Zqii3zOPcSxFMhv&export=download" type="video/mp4">
+  <source src="https://www.dropbox.com/scl/fi/9wa8736rhnw8czckw0v6r/FisioIA-Assistente-Chatbot-Assistente-de-Fisioterapeuta.mp4?rlkey=nrjf15vd4klcixyx28mklnnwt&st=g9d9ez3y&raw=1" type="video/mp4">
   Seu navegador não suporta vídeos.
 </video>
+
 
