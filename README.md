@@ -18,9 +18,9 @@
 <div style="display: flex; align-items: center;">
   <span>✅</span> Calendário de atendimentos: Organize sua agenda sem complicação!
 </div>
-#
+
 Desenvolvido com Python e a inteligência do Gemini AI, o FisioIA é a sua ferramenta ideal para otimizar o seu dia a dia.
-#
+
 Confira o vídeo e veja como é fácil interagir com o FisioIA!
 
 
